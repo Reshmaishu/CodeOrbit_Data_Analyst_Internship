@@ -1,0 +1,26 @@
+
+CODEORBIT TECH - TASK 1 DATA CLEANING REPORT
+
+Dataset: Customer Purchase Sample Dataset
+
+Cleaning Steps Applied:
+
+1. Missing Values:
+   - Missing Age values were replaced with the average age.
+   - Missing Purchase Amount values were replaced with 0.
+
+2. Duplicate Records:
+   - Duplicate customer records were identified and removed.
+
+3. Formatting Issues:
+   - Extra spaces were removed from customer names.
+   - City names were standardized using consistent capitalization.
+
+4. Numerical Formatting:
+   - Age values were rounded to whole numbers.
+   - Purchase Amount values were rounded to two decimal places.
+
+5. Output:
+   - raw_data.csv contains the original dataset.
+   - cleaned_data.csv contains the cleaned dataset.
+   - cleaned_data.xlsx contains the cleaned dataset in Excel format.

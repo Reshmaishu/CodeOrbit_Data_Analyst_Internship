@@ -1,0 +1,8 @@
+Customer_ID,Name,Age,City,Purchase_Amount
+C001,John,25.0,Hyderabad,1500.0
+C002, Alice ,30.0,hyderabad,2200.0
+C003,Rahul,,Bangalore,1800.0
+C004,Priya,28.0, HYDERABAD ,
+C005,David,35.0,Mumbai,3500.0
+C005,David,35.0,Mumbai,3500.0
+C006,Sara,,Bangalore,2500.0
