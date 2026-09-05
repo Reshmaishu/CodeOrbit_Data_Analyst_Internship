@@ -1,0 +1,49 @@
+SALES DATA ANALYSIS REPORT
+==========================
+
+1. Objective
+-------------
+The objective of this task is to analyze sales data using Python and Pandas.
+The analysis focuses on total sales, average order value, top-performing
+products, category-wise sales, region-wise sales, and monthly sales.
+
+2. Total Sales
+--------------
+Total Sales: ₹557,800
+
+3. Average Order Value
+----------------------
+Average Order Value: ₹27,890
+
+4. Top Products
+---------------
+Laptop generated the highest sales among all products.
+Monitor and Printer were the next highest-performing products.
+
+5. Category-wise Analysis
+-------------------------
+The Electronics category generated higher sales compared with the
+Accessories category.
+
+6. Region-wise Analysis
+-----------------------
+Sales were analyzed across North, South, East, and West regions to
+identify regional sales performance.
+
+7. Time-period Analysis
+-----------------------
+Sales were grouped by month to understand sales performance over the
+available time period.
+
+8. Tools Used
+-------------
+Python
+Pandas
+Excel
+
+9. Conclusion
+-------------
+The analysis demonstrates how Pandas can be used to calculate important
+sales metrics and summarize business data. The results help identify
+high-performing products, categories, and regions and provide useful
+insights for business decision-making.
